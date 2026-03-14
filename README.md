@@ -26,7 +26,19 @@ movie-database/
 ├── style.css
 ├── script.js
 └── assets/
-    └── images
+    └── sccreenshots
+
+
+   ## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Search Feature
+![Search](screenshots/search.png)
+
+### Movie Results
+![Addmovie](screenshots/addmovie.png) 
 
 
 ## How to Run the Project
@@ -51,6 +63,8 @@ This project was built to practice frontend development skills, including creati
 ---
 
  This project demonstrates practical frontend development skills and can be used as part of a web development portfolio.
+
+
 
  ## Author
  Patience Ngure
